@@ -1,26 +1,25 @@
-# Funções de probabilidade
+# Redução de dimensionalidade e seleção de
 
-Neste desafio vamos praticar sobre testes de hipóteses, um dos conceitos centrais
-da inferência estatística e de toda pesquisa que utiliza estatística como suporte.
+Neste desafio vamos praticar redução de dimensionalidade com PCA e seleção
+de variáveis com RFE.
 
 ## Objetivo
 
-O objetivo deste desafio é explorar algumas funções de testes de hipóteses disponíveis
-em pacotes como o SciPy, aprendendo a interpretar seus resultados, ser crítico sobre
-seus usos e entender um pouco sobre seus funcionamentos.
+O objetivo deste desafio é explorar sobre como funciona o PCA e como podemos
+obter _data sets_ de dimensões mais baixas através dele.
 
-Para isso, utilizaremos  o _data set_ [2016 Olympics in Rio de Janeiro](https://www.kaggle.com/rio2016/olympic-games/)
-que consiste de 11 variáveis a respeito de 11538 atletas que participaram das
-Olimpíadas de 2016 no Rio de Janeiro.
+Para isso, vamos contar com o _data set_ [FIFA 2019](https://www.kaggle.com/karangadiya/fifa19)
+que contém originalmente 89 variáveis com diversos atributos de mais de 18 mil jogadores
+do _game_ FIFA 2019.
 
 ## Tópicos
 
 Neste desafios nós vamos explorar:
 
-* Probabilidade
-* Estatística
-* Testes de hipóteses
-* Testes A/B
+* Redução de dimensionalidade
+* PCA
+* Seleção de variáveis
+* RFE
 
 ## Requisitos
 
