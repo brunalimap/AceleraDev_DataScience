@@ -1,3 +1,3 @@
 ###  **AceleraDev DataScience - Codenation**
 
-Neste repositório contém  as soluções dos desafios propostos durante a aceleração.
+Neste repositório contém  as soluções dos desafios propostos durante a aceleração de Data Science.
